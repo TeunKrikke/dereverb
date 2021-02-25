@@ -1,0 +1,7 @@
+numpy
+scipy
+mir_eval
+librosa
+matplotlib
+jupyterlab
+roomsimove
